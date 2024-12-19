@@ -1,7 +1,7 @@
 # Awaken
 Unreal Engine 5.4.4 game that i have been working on for past 2 months , game size is too big (1.5 GB) so i couldn't upload the whole project.
 
-Installer link : https://www.dropbox.com/scl/fi/p0li4g7xoyu0n4roxzpln/Awaken-Instaler.exe?rlkey=rk7sddbyz4vbb3dlk9bj2v6n8&st=u5a3wdbe&dl=0
+Installer link : https://www.dropbox.com/scl/fi/hjox8f33mgfapqzjnvte3/Awaken-1.1.0-Installer.exe?rlkey=xffgbhjnsjhcow9i53d8pi1m4&st=m6o8689v&dl=0
 
 Contact : andrijanstanisic321@gmail.com
 
